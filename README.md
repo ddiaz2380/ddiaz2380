@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 </div>
 
 ## 🚀 Sobre mí
@@ -55,7 +57,9 @@
 ## 🏆 Experiencia Destacada
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ### 🔥 Posiciones Actuales
@@ -72,11 +76,15 @@
 ## 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true)
+
 </div>
 
 ## 🎯 Especialidades
@@ -107,12 +115,10 @@ const danielDiaz = {
 ## 🌟 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/tu-usuario/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto1&theme=tokyonight&hide_border=true" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/tu-usuario/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto2&theme=tokyonight&hide_border=true" alt="Proyecto 2" />
-  </a>
+  
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto1&theme=tokyonight&hide_border=true)](https://github.com/tu-usuario/proyecto1)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto2&theme=tokyonight&hide_border=true)](https://github.com/tu-usuario/proyecto2)
+
 </div>
 
 ## 🎓 Educación Continua
@@ -125,25 +131,25 @@ const danielDiaz = {
 ## 🤝 Conecta conmigo
 
 <div align="center">
-  <a href="mailto:developerdanieldiaz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developerdanieldiaz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Profile views" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
+
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 <div align="center">
